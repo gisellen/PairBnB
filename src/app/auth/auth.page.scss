@@ -1,0 +1,13 @@
+ion-content{
+    --background: url(/assets/NewYorkStreets.jpg) 20% 100% no-repeat !important;
+    background-position: center;
+    background-size: cover;
+  
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
